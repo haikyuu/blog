@@ -68,7 +68,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: haikyuu 
+username: haikyuu
 repo: blog
 branch: master
 relative_source: ../jasper2/
